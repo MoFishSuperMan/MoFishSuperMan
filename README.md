@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a student, currently studying in SYSU in Guangzhou, China
+
+## Technologies and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,anaconda,fastapi,github,html,latex,linux,md,nginx,nodejs,npm,py,pytorch,ts,vscode&perline=9" />
+  </a>
+</p>
